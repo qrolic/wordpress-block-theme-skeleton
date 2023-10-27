@@ -1,0 +1,58 @@
+/************************************/
+/***** 	   01. General css		 ****/
+/************************************/
+html,body {
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+}
+html.has-modal-open{
+  overflow: visible;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+img {
+  max-width: 100%;
+}
+a:hover,
+a {
+  text-decoration: none;
+  outline: 0;
+}
+
+a:focus {
+  text-decoration: none;
+  outline: 0;
+}
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+*:focus {
+    outline: none;
+}
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+button:focus,
+input:focus,
+img:focus,
+.slick-slide:focus,
+textarea:focus,
+input:focus {
+  outline: none;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 400;
+}

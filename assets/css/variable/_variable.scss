@@ -1,0 +1,49 @@
+
+// Colors
+$color-black:#000000;
+$color-gray: #808080;
+$color-white: #ffffff;
+
+// Mixins
+@mixin min-1920 {
+  @media screen and (min-width: 1920px) {
+    @content;
+  }
+}
+@mixin min-1440 {
+  @media screen and (min-width: 1440px) {
+    @content;
+  }
+}
+@mixin max-1199 {
+  @media screen and (max-width: 1199px) {
+    @content;
+  }
+}
+@mixin max-991 {
+  @media screen and (max-width: 991px) {
+    @content;
+  }
+}
+@mixin max-767 {
+  @media screen and (max-width: 767px) {
+    @content;
+  }
+}
+
+@mixin max-575 {
+  @media screen and (max-width: 575px) {
+    @content;
+  }
+}
+
+@mixin max-425 {
+  @media screen and (max-width: 425px) {
+    @content;
+  }
+}
+@mixin max-360 {
+  @media screen and (max-width: 360px) {
+    @content;
+  }
+}
