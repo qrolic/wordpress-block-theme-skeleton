@@ -1,7 +1,7 @@
 # WordPress Block Theme Skeleton
-This is the skeleton to easily get started with WordPress Block theme.
+This is the skeleton to easily get started with the WordPress Block theme.
 
-Explore further insights on this WordPress block theme skeleton and its practical implementation by visiting here: [WordPress Block Theme Skeleton](https://qrolic.com/blog/wordpress-block-theme-skeleton/)
+Explore further insights on this WordPress block theme skeleton and its practical implementation by visiting here: [Create Custom Block theme using WordPress Block Theme Skeleton](https://qrolic.com/blog/create-custom-block-theme-using-wordpress-block-theme-skeleton/)
 
 # About Qrolic Technologies
 
